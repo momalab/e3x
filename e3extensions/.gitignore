@@ -1,0 +1,12 @@
+bin/
+lib/
+obj/
+build-gmp/
+*.elf
+CS.txt
+*.la
+*.so
+*.disasm
+*.tar.gz
+
+

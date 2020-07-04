@@ -1,0 +1,19 @@
+unsigned long long stats_operatorAdd = 0;
+unsigned long long stats_operatorSub = 0;
+unsigned long long stats_operatorMul = 0;
+unsigned long long stats_operatorDiv = 0;
+unsigned long long stats_operatorMod = 0;
+unsigned long long stats_operatorShiftLeft = 0;
+unsigned long long stats_operatorShiftRight = 0;
+unsigned long long stats_operatorLess = 0;
+unsigned long long stats_operatorGreater = 0;
+unsigned long long stats_operatorEqual = 0;
+unsigned long long stats_operatorInc = 0;
+unsigned long long stats_operatorDec = 0;
+unsigned long long stats_iszero = 0;
+unsigned long long stats_swap = 0;
+unsigned long long stats_div = 0;
+unsigned long long stats_divABRQ = 0;
+unsigned long long stats_mul = 0;
+unsigned long long stats_pow = 0;
+

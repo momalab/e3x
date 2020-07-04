@@ -1,0 +1,43 @@
+Seeding random generator with value 0xaee1a046
+Insn MMU 0KB: 1 ways, 64 sets, entry size 1 bytes
+Data MMU 0KB: 1 ways, 64 sets, entry size 1 bytes
+Ethernet TAP type
+Verbose on, simdebug off, interactive prompt off
+Machine initialization...
+Clock cycle: 10ns
+No data cache.
+No instruction cache.
+BPB simulation off.
+BTIC simulation off.
+Or1ksim 2012-04-27
+Building automata... done, num uncovered: 0/324.
+Parsing operands data... done.
+UART at 0x90000000
+Resetting Tick Timer.
+Resetting Power Management.
+Resetting PIC.
+Starting at 0x00000000
+loadcode: filename bubblesort_e3.gmp.elf  startaddr=00000000  virtphy_transl=00000000
+MoMA!
+Not COFF file format
+ELF type: 0x0002
+ELF machine: 0x005c
+ELF version: 0x00000001
+ELF sec = 27
+Section: .vectors, vaddr: 0x00000000, paddr: 0x0 offset: 0x00002000, size: 0x00002000
+Section: .init, vaddr: 0x00002000, paddr: 0x2000 offset: 0x00004000, size: 0x00000028
+Section: .text, vaddr: 0x00002028, paddr: 0x2028 offset: 0x00004028, size: 0x001184b0
+Section: .fini, vaddr: 0x0011a4d8, paddr: 0x11a4d8 offset: 0x0011c4d8, size: 0x0000001c
+Section: .rodata, vaddr: 0x0011a4f4, paddr: 0x11a4f4 offset: 0x0011c4f4, size: 0x0000d564
+Section: .eh_frame, vaddr: 0x00128000, paddr: 0x128000 offset: 0x0012a000, size: 0x0001a880
+Section: .gcc_except_table, vaddr: 0x00142880, paddr: 0x142880 offset: 0x00144880, size: 0x000056b4
+Section: .ctors, vaddr: 0x00147f34, paddr: 0x147f34 offset: 0x00149f34, size: 0x00000034
+Section: .dtors, vaddr: 0x00147f68, paddr: 0x147f68 offset: 0x00149f68, size: 0x00000008
+Section: .jcr, vaddr: 0x00147f70, paddr: 0x147f70 offset: 0x00149f70, size: 0x00000004
+Section: .data.rel.ro, vaddr: 0x00147f74, paddr: 0x147f74 offset: 0x00149f74, size: 0x00000008
+Section: .data, vaddr: 0x00147f7c, paddr: 0x147f7c offset: 0x00149f7c, size: 0x00000f70
+Section: .got, vaddr: 0x00148eec, paddr: 0x148eec offset: 0x0014aeec, size: 0x0000004c
+(sim) (sim) (sim) (sim) (sim) (sim) (sim) \: Unknown command.
+(sim) /: Unknown command.
+(sim) /: Unknown command.
+(sim) 
