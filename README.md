@@ -28,5 +28,6 @@ E. Chielle, N. G. Tsoutsos, O. Mazonka and M. Maniatakos, "Encrypt-Everything-Ev
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TDSC.2020.3007066}}
+  doi={10.1109/TDSC.2020.3007066}
+}
 ```
